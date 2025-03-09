@@ -1,0 +1,7 @@
+<script>start("/Users/itamar/UdonOS/.venv/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("bin","bin",1,384,"384 B",1741483301,"3/8/25, 5:21:41 PM");</script>
+<script>addRow("include","include",1,96,"96 B",1741483300,"3/8/25, 5:21:40 PM");</script>
+<script>addRow("lib","lib",1,96,"96 B",1741483300,"3/8/25, 5:21:40 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,69,"69 B",1741483300,"3/8/25, 5:21:40 PM");</script>
+<script>addRow("pyvenv.cfg","pyvenv.cfg",0,296,"296 B",1741483300,"3/8/25, 5:21:40 PM");</script>
